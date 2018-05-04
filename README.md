@@ -1,4 +1,4 @@
-# DatabaseWithCSharp
+Database Connectivity using C#, Visual Studio, Microsoft SQL Server
 Database Connection and showing data into a DataGridView using C# visual studio
 Follow the tuturial at https://www.youtube.com/watch?v=QDQVC1Clz04&list=PLCzvs60UfcC_oK889gmz7SWRtJK_u7aXD
 
