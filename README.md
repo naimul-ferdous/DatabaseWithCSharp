@@ -1,4 +1,4 @@
-#Database Connectivity using C#, Visual Studio, Microsoft SQL Server
+#DatabaseWithCSharp
 
 
 Database Connection and showing data into a DataGridView using C# visual studio
