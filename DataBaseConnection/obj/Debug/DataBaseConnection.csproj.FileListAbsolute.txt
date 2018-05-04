@@ -1,0 +1,10 @@
+c:\users\naimul\documents\visual studio 2015\Projects\DataBaseConnection\DataBaseConnection\bin\Debug\DataBaseConnection.exe.config
+c:\users\naimul\documents\visual studio 2015\Projects\DataBaseConnection\DataBaseConnection\bin\Debug\DataBaseConnection.exe
+c:\users\naimul\documents\visual studio 2015\Projects\DataBaseConnection\DataBaseConnection\bin\Debug\DataBaseConnection.pdb
+c:\users\naimul\documents\visual studio 2015\Projects\DataBaseConnection\DataBaseConnection\obj\Debug\DataBaseConnection.csprojResolveAssemblyReference.cache
+c:\users\naimul\documents\visual studio 2015\Projects\DataBaseConnection\DataBaseConnection\obj\Debug\DataBaseConnection.Form1.resources
+c:\users\naimul\documents\visual studio 2015\Projects\DataBaseConnection\DataBaseConnection\obj\Debug\DataBaseConnection.Properties.Resources.resources
+c:\users\naimul\documents\visual studio 2015\Projects\DataBaseConnection\DataBaseConnection\obj\Debug\DataBaseConnection.csproj.GenerateResource.Cache
+c:\users\naimul\documents\visual studio 2015\Projects\DataBaseConnection\DataBaseConnection\obj\Debug\DataBaseConnection.exe
+c:\users\naimul\documents\visual studio 2015\Projects\DataBaseConnection\DataBaseConnection\obj\Debug\DataBaseConnection.pdb
+C:\Users\Naimul\Documents\Visual Studio 2015\Projects\DataBaseConnection\DataBaseConnection\obj\Debug\DataBaseConnection.Form2.resources
